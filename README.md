@@ -139,7 +139,7 @@ Top-rated items:
 ### **1. Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/RaundalOm/customer-shopping-behavior-analysis.git
 cd customer-shopping-behavior-analysis
 ```
 
